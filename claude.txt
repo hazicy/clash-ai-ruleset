@@ -1,0 +1,8 @@
+payload:
+  - "PROCESS-NAME,Claude"
+  - "PROCESS-NAME,Claude Helper"
+  - "DOMAIN-SUFFIX,anthropic.com"
+  - "DOMAIN-SUFFIX,claude.ai"
+  - "DOMAIN-SUFFIX,usefathom.com"
+  - "DOMAIN-KEYWORD,claude"
+  - "DOMAIN-KEYWORD,anthropic"
